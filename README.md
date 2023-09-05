@@ -51,7 +51,7 @@ Video Subtitle Translator is a Python application that uses the Google Cloud Tra
 
 ## Usage
 
-- **Place Your Video and Subtitle Files:** Ensure your video file is named `video.mp4` and your subtitle file is `subtitle.vtt` (or modify the script to match your filenames).
+- **Directory Structure:** Both your video file (`video.mp4`) and your subtitle file (`subtitle.vtt`) should be placed in the same directory as the `main.py` script.
 - **Update the Google Cloud Credentials Path:** Adjust the path in `main.py` to your Google Cloud credentials JSON.
 - **Execute the Script:** Start the automatic translation and embedding process with the command:
    ```bash
