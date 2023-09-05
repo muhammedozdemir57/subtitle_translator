@@ -2,7 +2,7 @@
 Instantly translate your video's  subtitles into any language with the accuracy of Google Cloud.
 # Video Subtitle Translator
 
-Video Subtitle Translator is a Python application that uses the Google Cloud Translation API to automatically translate `.vtt` subtitle files to Turkish and then embeds them into the specified video.
+Video Subtitle Translator is a Python application that uses the Google Cloud Translation API to automatically translate .vtt subtitle files into Turkish or any other language supported by Google Cloud, and then embeds them into the specified video.
 
 
 ## Table of Contents
