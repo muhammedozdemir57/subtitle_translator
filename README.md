@@ -64,7 +64,7 @@ Video Subtitle Translator is a Python application that uses the Google Cloud Tra
 Feel free to fork, improve, make pull requests or fill issues. I'll appreciate any sort of contribution!
 
 ## License
-This project is under the MIT License. Please refer to the LICENSE file for more details.
+This project is under the MIT License. Please refer to the [LICENSE](LICENSE) file for more details.
 ```
 
 
