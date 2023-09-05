@@ -31,6 +31,6 @@ Video Subtitle Translator is a Python application that uses the Google Cloud Tra
 ## Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/muhammedozdemir5734/VideoSubtitleTranslator.git
+   git clone https://github.com/muhammedozdemir5734/subtitle_translator
 
 2. 
